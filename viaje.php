@@ -21,6 +21,8 @@ Implementar las operaciones que permiten modificar el nombre, apellido y teléfo
 Luego implementar la operación que agrega los pasajeros al viaje, solicitando por consola la información de los mismos.
  Se debe verificar que el pasajero no este cargado mas de una vez en el viaje. De la misma forma cargue la información 
  del responsable del viaje.
+
+ modificado
 */
 class viaje{
     private $codigoViaje;
